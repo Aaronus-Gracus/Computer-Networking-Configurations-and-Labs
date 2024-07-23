@@ -13,7 +13,7 @@ configured with IP addresses and routing.
 - <b>Cisco IOS</b> 
 - <b>Cisco Packet Tracer</b>
 
-<h2>Program walk-through:</h2>
+<h2>Configuration walk-through:</h2>
 
 <p align="center">
 Launch the utility: <br/>
