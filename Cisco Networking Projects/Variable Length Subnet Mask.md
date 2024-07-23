@@ -5,7 +5,8 @@
 
 <h2>Description</h2>
 In the lab below, I’ve taken the 192.168.5.0 /24 network and broken it down into 5 smaller variable length subnets. Each subnet has the required number of host IP addresses. The network has been broken down as follows:
-
+<br>
+<br>
 
 - LAN2 is the largest subnetwork which requires 64 host IP addresses and has been given a /25 subnet mask.
 - LAN1 is the second largest subnetwork which needs only 45 host IP addresses and has been given a /26 subnet mask.
