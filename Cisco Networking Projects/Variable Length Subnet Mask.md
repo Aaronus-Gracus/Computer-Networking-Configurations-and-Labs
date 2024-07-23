@@ -22,5 +22,8 @@ In the lab below, I’ve taken the 192.168.5.0 /24 network and broken it down in
 
 <p align="center">
 Launch Cisco Packet Tracer: <br/>
-<img src="https://i.imgur.com/UbAkoIp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/IWbdhuL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<p align="center">
+<img src="https://i.imgur.com/i280LmO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
