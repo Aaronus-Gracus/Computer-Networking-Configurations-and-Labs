@@ -8,14 +8,10 @@ configured with IP addresses and routing.
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Languages and Programs Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
-
-<h2>Environments Used </h2>
-
-- <b>Windows 10</b> (21H2)
+- <b>Cisco IOS</b> 
+- <b>Cisco Packet Tracer</b>
 
 <h2>Program walk-through:</h2>
 
@@ -47,14 +43,4 @@ Sanitization complete:  <br/>
 Observe the wiped disk:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
 
