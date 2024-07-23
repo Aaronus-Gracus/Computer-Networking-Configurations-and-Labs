@@ -1,6 +1,7 @@
 <h1>Cisco Security: Device Hardening Configuration</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+### YouTube Demonstration - coming soon!
+<!-- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo) -->
 
 <h2>Description</h2>
 In this lab, you’ll learn how to harden the routers on your network using a number of different features including proper secured passwords, limited SSH access (Management server 192.168.1.100), banners, and disabling CDP. This begins with all devices already 
