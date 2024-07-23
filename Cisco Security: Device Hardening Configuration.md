@@ -21,7 +21,7 @@ configured with IP addresses and routing.
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://imgur.com/a/gvvMsVT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/UbAkoIp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
