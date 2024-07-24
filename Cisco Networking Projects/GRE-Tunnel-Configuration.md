@@ -24,7 +24,7 @@ Launch Cisco Packet Tracer: <br/>
 
 To configure a GRE tunnel, we have to make a tunnel interface. This is not a physical interface of course, but a virtual interface, like a loopback interface:
 
-R1(config)#interface tunnel 0
+<p align="center">R1(config)#interface tunnel 0</p>
 
 <p align="center">
 <img src="https://i.imgur.com/qjRTEj2.png" height="70%" width="70%" alt="GRE Config Cisco Packet Tracer"/>
@@ -37,16 +37,19 @@ Now we have to specify 3 more items to complete the GRE configuration:
 - Tunnel Destination
 - IP address of the virtual tunnel itself
 
-<p><u>Tunnel Source:</u> specify which physical interface on R1 will be used for the tunnel. We should use the interface connected to the service provider, which is g0/0/0 :</p>
+<bTunnel Source:</b> specify which physical interface on R1 will be used for the tunnel. We should use the interface connected to the service provider, which is g0/0/0 :</p>
 
-R1(config-if)#tunnel source g0/0/0
+<p align="center">R1(config-if)#tunnel source g0/0/0</p>
 
-<i>Tunnel Destination:</i> specify the IP address of the other end of the tunnel, so R2. So, enter R2’s WAN interface’s IP, 200.0.0.2 :
 
-R1(config-if)#tunnel destination 200.0.0.2
+<b>Tunnel Destination:</b> specify the IP address of the other end of the tunnel, so R2. So, enter R2’s WAN interface’s IP, 200.0.0.2 :
+
+<p align="center">R1(config-if)#tunnel destination 200.0.0.2</p>
+
 
 Virtual tunnel interface itself needs an IP address:
 
-R1(config-if)#ip address 192.168.1.1 255.255.255.252
+<p align="center">R1(config-if)#ip address 192.168.1.1 255.255.255.252</p>
+
 
 Okay, that’s all the configuration needed on R1. Below is what we just configured above on R1:
