@@ -37,11 +37,11 @@ Now we have to specify 3 more items to complete the GRE configuration:
 - Tunnel Destination
 - IP address of the virtual tunnel itself
 
-<b>Tunnel Source:</b> specify which physical interface on R1 will be used for the tunnel. We should use the interface connected to the service provider, which is g0/0/0 :
+<p><u>Tunnel Source:</u> specify which physical interface on R1 will be used for the tunnel. We should use the interface connected to the service provider, which is g0/0/0 :</p>
 
 R1(config-if)#tunnel source g0/0/0
 
-<b>Tunnel Destination:</b> specify the IP address of the other end of the tunnel, so R2. So, enter R2’s WAN interface’s IP, 200.0.0.2 :
+<i>Tunnel Destination:</i> specify the IP address of the other end of the tunnel, so R2. So, enter R2’s WAN interface’s IP, 200.0.0.2 :
 
 R1(config-if)#tunnel destination 200.0.0.2
 
