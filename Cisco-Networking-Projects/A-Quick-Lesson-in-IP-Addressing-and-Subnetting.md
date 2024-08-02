@@ -51,7 +51,7 @@
 <p class="has-text-align-center has-x-small-font-size" style="text-align: center;">&nbsp;</p>
 <p class="has-text-align-center has-x-small-font-size" style="text-align: center;"><img src="https://infotechaaron.wordpress.com/wp-content/uploads/2024/03/image-10.png" alt="" width="80%" height="80%" /></p>
 <p class="has-text-align-center has-x-small-font-size">&nbsp;</p>
-<p class="has-text-align-center has-x-small-font-size" style="text-align: center;">Don&rsquo;t forget to subtract 2 from usable addresses for Network and Broadcast addresses.</p>
+<p style="text-align: center;">Don&rsquo;t forget to subtract 2 from usable addresses for Network and Broadcast addresses.</p>
 <p class="has-text-align-center has-x-small-font-size" style="text-align: center;">&nbsp;</p>
 <p class="has-text-align-center has-x-small-font-size" style="text-align: center;">&nbsp;</p>
 <p class="has-text-align-center has-x-small-font-size" style="text-align: center;">&nbsp;</p>
